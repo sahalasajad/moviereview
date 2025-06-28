@@ -1,1 +1,1 @@
-This is a project called Moview Review 
+This is a project called Movie Review 
